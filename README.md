@@ -1,6 +1,9 @@
 # UAS_311710752_Afif-Mahar-Widodo_TI.17.F1
 Pemrograman Mobile
 
+Video Hasil
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([![Watch the video](https://youtu.be/opttrgV67go)
+
 Hasil Aplikasi
 
 ![Screenshot_20200718-192350_UAS_afif](https://user-images.githubusercontent.com/50304660/87852534-f5ee4a80-c92c-11ea-920c-bf21a4ce1efb.jpg)
