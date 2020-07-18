@@ -2,7 +2,7 @@
 Pemrograman Mobile
 
 Video Hasil
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([![Watch the video](https://youtu.be/opttrgV67go)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/opttrgV67go)
 
 Hasil Aplikasi
 
